@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Дані та артефакти експериментів
+data/
+checkpoints/
+results/anomalib_runs/
+results/*_maps.npz
+
+# Службові файли
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+.~lock.*#

@@ -1,0 +1,2 @@
+combination,threshold_source,threshold,image_auroc,f1,precision,recall,false_positive_rate
+equal-weight z score,validation 99th percentile,3.2607349458340398,0.9178110268497643,0.45454545454545453,1.0,0.29411764705882354,0.0
